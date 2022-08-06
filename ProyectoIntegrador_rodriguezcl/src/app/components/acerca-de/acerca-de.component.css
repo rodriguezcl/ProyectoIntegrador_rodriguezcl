@@ -13,9 +13,10 @@ div {
 #nombre {
     font-weight: bold;
     font-size: 20px;
-    margin-top: 90px;
+    margin-top: 65px;
     text-align: center;
-    
+    align-content: center;
+ 
 }
 
 /*Estilo de la foto de perfil */
@@ -26,10 +27,12 @@ div {
         width: 15%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
-        left: 2% ;
-        top: 600px;
+        left: 3% ;
+        top: 580px;
         align-content: center;
     }
+
+    
 
 
 }
@@ -41,7 +44,7 @@ div {
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 33% ;
-        top: 620px;
+        top: 680px;
     }
 
 
